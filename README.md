@@ -1,4 +1,4 @@
-# Mechanical Watch using OpenGL
+# Mechanical Clock using OpenGL
 
 University project for Computer Graphics and Visualisation.
 
