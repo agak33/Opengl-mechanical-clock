@@ -3,8 +3,8 @@
 University project for Computer Graphics and Visualisation.
 
 ## Models, textures
-- all models was created by the author using Blender 2.9
-- clocks hands textures was created by the author
+- all models were created by the author using Blender 2.9
+- clocks hands textures were created by the author
 - wooden texture: https://www.texturecan.com/details/121/
 - metal texture: https://freepbr.com/materials/brushed-metal1/
 - clock face texture: https://www.pngwing.com/en/free-png-nnvko
